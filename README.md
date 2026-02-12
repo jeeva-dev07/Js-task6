@@ -1,4 +1,3 @@
-# Js-task6
 // Task 1 – forEach() Practice
 // let subjects = ["Maths", "Science", "English", "History"]
 // Requirements:
